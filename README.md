@@ -1,3 +1,3 @@
 # Competitive-Programming
 
-My solution to problems from my past coding competition
+Solutions for problems from my past coding competition
