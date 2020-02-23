@@ -1,0 +1,9 @@
+# Mac system file
+.DS_Store
+
+# C++ compile files
+*.exe
+*.out
+
+# Java compile files
+*.class
