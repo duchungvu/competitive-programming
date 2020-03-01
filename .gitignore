@@ -7,3 +7,6 @@
 
 # Java compile files
 *.class
+
+# Visual Studio Code files
+.vscode
