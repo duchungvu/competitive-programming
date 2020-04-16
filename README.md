@@ -1,5 +1,10 @@
 # Competitive Programming
 
-Solutions for problems from my past coding competition. Future updates will include technique I used to solve these problems.
+## Featured competitions
+* [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
+* [Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart)
+* [Codeforces](https://codeforces.com/)
+* [International Collegiate Promgramming Contest (ICPC)](https://icpc.baylor.edu/)
 
-Topological Sort: [E. Andrew and Taxi](https://github.com/duchungvu/Competitive-Programming/blob/master/Codeforces/EAndrewAndTaxi.java)
+## Library
+* [Data Structures](Library/Data-Structures/)
